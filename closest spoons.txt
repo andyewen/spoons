@@ -1,0 +1,50 @@
+#1
+Pub A: The Standing Order, Derby
+Pub B: The Thomas Leaper, Derby
+Distance: 0.000km
+
+#2
+Pub A: The Beehive, Crawley
+Pub B: The Flying Horse, Crawley
+Distance: 0.000km
+
+#3
+Pub A: The Stag & Pheasant, Mansfield
+Pub B: The Widow Frost, Mansfield
+Distance: 0.041km
+
+#4
+Pub A: The Moon and Stars, Romford
+Pub B: The World’s Inn, Romford
+Distance: 0.046km
+
+#5
+Pub A: Sheffield Water Works Company, Sheffield
+Pub B: The Benjamin Huntsman, Sheffield
+Distance: 0.051km
+
+#6
+Pub A: The Fall Well, Liverpool
+Pub B: The Richard John Blackler, Liverpool
+Distance: 0.063km
+
+#7
+Pub A: The Atrium, Birmingham
+Pub B: NEC Wetherspoons, Birmingham
+Distance: 0.097km
+
+#8
+Pub A: The William Rufus, Carlisle
+Pub B: Woodrow Wilson, Carlisle
+Distance: 0.100km
+
+#9
+Pub A: Montgomery’s Tower, Shrewsbury
+Pub B: The Shrewsbury Hotel, Shrewsbury
+Distance: 0.106km
+
+#10
+Pub A: The Willow Walk, Victoria
+Pub B: Wetherspoons, Victoria Station Concourse
+Distance: 0.133km
+
