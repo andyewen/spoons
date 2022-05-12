@@ -7,7 +7,7 @@ from haversine import haversine
 if __name__ == '__main__':
     with open('spoons.csv', newline='') as f:
         reader = csv.DictReader(f)
-        pubs = [row for row in reader]
+        pubs = list(reader)
 
     pub_pairs = []
     for pub_a, pub_b in itertools.combinations(pubs, 2):

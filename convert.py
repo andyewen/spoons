@@ -44,8 +44,7 @@ if __name__ == '__main__':
     with open('spoons.csv', 'w', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=pub_fields)
         writer.writeheader()
-        for pub in extract_pubs(raw_spoons_data):
-            writer.writerow(pub)
+        writer.writerows(extract_pubs(raw_spoons_data))
 
 
             
